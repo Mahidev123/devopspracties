@@ -3,6 +3,4 @@ java
 ubuntu
 host
 become
-thats ok
-i added 2 lines
-extra
+
